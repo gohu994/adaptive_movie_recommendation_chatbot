@@ -1,0 +1,26 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "message": {
+                "chat": {
+                    "first_name": "Hugo",
+                    "id": 1690350938,
+                    "last_name": "Benameur",
+                    "type": "private"
+                },
+                "date": 1620652674,
+                "from": {
+                    "first_name": "Hugo",
+                    "id": 1690350938,
+                    "is_bot": false,
+                    "language_code": "fr",
+                    "last_name": "Benameur"
+                },
+                "message_id": 4182,
+                "text": "bye"
+            },
+            "update_id": 22821362
+        }
+    ]
+}
